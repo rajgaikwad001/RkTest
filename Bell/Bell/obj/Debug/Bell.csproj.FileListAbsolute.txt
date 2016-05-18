@@ -1,0 +1,14 @@
+D:\Raj\Practice\Bell\Bell\bin\Debug\Bell.exe.config
+D:\Raj\Practice\Bell\Bell\bin\Debug\Bell.exe
+D:\Raj\Practice\Bell\Bell\bin\Debug\Bell.pdb
+D:\Raj\Practice\Bell\Bell\obj\Debug\Bell.Form1.resources
+D:\Raj\Practice\Bell\Bell\obj\Debug\Bell.Properties.Resources.resources
+D:\Raj\Practice\Bell\Bell\obj\Debug\Bell.csproj.GenerateResource.Cache
+D:\Raj\Practice\Bell\Bell\obj\Debug\Bell.exe
+D:\Raj\Practice\Bell\Bell\obj\Debug\Bell.pdb
+D:\Raj\Practice\Bell\Bell\bin\Debug\Interop.WMPLib.dll
+D:\Raj\Practice\Bell\Bell\bin\Debug\AxInterop.WMPLib.dll
+D:\Raj\Practice\Bell\Bell\obj\Debug\Interop.WMPLib.dll
+D:\Raj\Practice\Bell\Bell\obj\Debug\AxInterop.WMPLib.dll
+D:\Raj\Practice\Bell\Bell\obj\Debug\Bell.csproj.ResolveComReference.cache
+D:\Raj\Practice\Bell\Bell\obj\Debug\Bell.csprojResolveAssemblyReference.cache
